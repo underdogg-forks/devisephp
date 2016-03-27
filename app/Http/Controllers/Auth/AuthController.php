@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Http\Controllers\Auth;
+namespace Brewsbeers\Http\Controllers\Auth;
 
-use App\User;
+use Brewsbeers\User;
 use Validator;
-use App\Http\Controllers\Controller;
+use Brewsbeers\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ThrottlesLogins;
 use Illuminate\Foundation\Auth\AuthenticatesAndRegistersUsers;
 

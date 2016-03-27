@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Brewsbeers\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

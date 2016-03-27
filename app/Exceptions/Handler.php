@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Exceptions;
+namespace Brewsbeers\Exceptions;
 
 use Exception;
 use Symfony\Component\HttpKernel\Exception\HttpException;

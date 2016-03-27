@@ -151,10 +151,10 @@ return [
         /*
          * Application Service Providers...
          */
-        App\Providers\AppServiceProvider::class,
-        App\Providers\AuthServiceProvider::class,
-        App\Providers\EventServiceProvider::class,
-        App\Providers\RouteServiceProvider::class,
+        Brewsbeers\Providers\AppServiceProvider::class,
+        Brewsbeers\Providers\AuthServiceProvider::class,
+        Brewsbeers\Providers\EventServiceProvider::class,
+        Brewsbeers\Providers\RouteServiceProvider::class,
 
         /*
          * Devise Service Provider...
